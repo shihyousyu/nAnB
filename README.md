@@ -11,7 +11,7 @@ git clone https://github.com/shihyousyu/nAnB.git
 cd nAnB
 ````
 
-2. Make sure you have Python 3 installed.
+2. Make sure you installed Python3.
 
 3. Install Pygame:
 
