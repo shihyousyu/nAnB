@@ -7,7 +7,7 @@ This is a game I made in high school.
 1. Clone or download this repository to your computer:
 
 ```bash
-git clone https://github.com/your-username/nAnB.git
+git clone https://github.com/shihyousyu/nAnB.git
 cd nAnB
 ````
 
@@ -22,5 +22,5 @@ pip install pygame
 4. Run the game:
 
 ```bash
-python main.py
+python game.py
 ```
